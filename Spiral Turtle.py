@@ -1,4 +1,9 @@
-                  #  Successful
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 10 12:26:11 2020
+
+@author: BHASKAR NEOGI
+"""
 
 import turtle
 from random import randint as r
@@ -81,5 +86,6 @@ for i in range(5) :
     a.append(p)'''
 
 spiral(20,20)
+turtle.exitonclick()
 turtle.done()
 
